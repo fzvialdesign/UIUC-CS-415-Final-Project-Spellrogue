@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Assets/Interactables/BP_PuzzleChest.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Level_Start.umap",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Widgets/WBP_Puzzle.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Widgets/S_PuzzleWordBank.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Widgets/DT_PuzzleWordBank.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Audio/SFX/attackhit1.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Audio/SFX/attackhit2.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Audio/SFX/attackhit3.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Audio/SFX/attackmiss1.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Audio/SFX/attackmiss2.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Audio/SFX/attackmiss3.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Audio/SFX/damage1.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Audio/SFX/damage2.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Audio/SFX/damage3.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Audio/SFX/take_damage.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Assets/Interactables/DT_WordBank1.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Widgets/DT_WordBank1.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Widgets/DT_WordBank.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Widgets/S_WordBank1.uasset",
+				"C:/Users/cesco/OneDrive/Documents/GitHub/SpellRogue/Content/Widgets/S_WordBank.uasset"
+			]
+		}
+	]
+}
